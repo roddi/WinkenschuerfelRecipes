@@ -1,3 +1,3 @@
 #Winkenschuerfel Beer Recipes
 
-[Stout](Stout)
+[Stout](Stout.md)
