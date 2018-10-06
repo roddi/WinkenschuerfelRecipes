@@ -1,6 +1,6 @@
 # Simple IPA
 
-###Guss
+### Guss
 - 23 l Hauptguss
 - 17 l Nachguss
 
@@ -14,7 +14,7 @@
 - 2\. Verzuckerungsrast 78° 5min
 - Abmaischen 78° 
 
-###Hopfenkochen
+### Hopfenkochen
 - 25g Perle 90 min v.E.
 - 40g Cascade 60 min v.E.
 - 40g Cascade 5 min v.E.
