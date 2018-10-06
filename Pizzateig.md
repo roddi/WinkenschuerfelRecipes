@@ -1,6 +1,6 @@
 # 2-3-4 Pizzateig
 
-Der Teig eignet sich auch für Frühstücksbrötchen oder andere Dinge, bei denen man einen herzhaften Hefeteig braucht. Der Name kommt von den Mengen Grieß, Mehl, Wasser. So als Merkregel.
+Der Teig eignet sich auch für Frühstücksbrötchen oder andere Dinge, bei denen man einen herzhaften Hefeteig braucht. Der Name kommt von den Mengen für Grieß, Mehl und Wasser. So als Merkregel.
 
 ### Zutaten
  - 400ml Wasser 
