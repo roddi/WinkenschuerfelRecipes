@@ -3,9 +3,9 @@
 Der Teig eignet sich auch für Frühstücksbrötchen oder andere Dinge, bei denen man einen herzhaften Hefeteig braucht. Der Name kommt von den Mengen für Grieß, Mehl und Wasser. So als Merkregel.
 
 ### Zutaten
- - 400ml Wasser 
- - 300g Mehl am besten Tipo 00 (aus Italien) aber Typ 405 geht auch. 
  - 200g Hartweizengrieß
+ - 300g Mehl am besten Tipo 00 (aus Italien) aber Typ 405 geht auch. 
+ - 400ml Wasser 
  - 2 gestrichene TL Salz 
  - Hefe frisch als Würfel oder Trockenhefe (spielt eigentlich keine Rolle, trust me!) 
 
