@@ -1,20 +1,17 @@
 # Kasimir und Frippe Kuchen
 
-Das ist meine leichte Abwandelung des Rezepts, das die beiden knuffigen Bieber aus dem Buch [Kasimir backt](https://www.ellermann.de/buecher/illustratoren/d-g/details/titel/3-7891-6772-X//////Kasimir%20backt.html) zubereiten. Ich habe im wesentlichen Zucker durch Honig ersetzt und die Menge Vanillezucker erhöht.
+Das ist meine leichte Abwandelung des Rezepts, das die beiden knuffigen Bieber aus dem Buch [Kasimir backt](https://www.ellermann.de/buecher/illustratoren/d-g/details/titel/3-7891-6772-X//////Kasimir%20backt.html) zubereiten. Ich habe im wesentlichen Zucker durch Honig ersetzt und die Menge Vanillezucker erhöht. Außerdem habe ich die Gesamtmenge an Zucker reduziert. Der Kuchen ist auch so noch ungesund genug. 
 
  ### Zutaten
 
 - 80g geschmolzene Butter
-
-- 200g Honig
-
+- 150g Honig
 - 2 Eier
+- 200g Weizenmehl Typ 550 (405 geht auch. Evtl auch Dinkel, aber dann würde ich die Menge an Backpulver erhöhen. Gluten und so, wissen schon!)
 - 2 TL Backpulver
-- 1 Pkg Vanillezucker (im Originalrezept steht 2 TL, aber man kann ruhig eine ganze Packung nehmen. Außerdem: Richtige Vanille, kein Vanillin!)
+- 1 Pkg Vanillezucker (im Originalrezept steht 2 TL, aber man kann ruhig eine ganze Packung nehmen oder zwei. Viel Vanille, viel lecker! Und natürlich richtige Vanille, kein Vanillin!)
 - 1/8 l Milch
 - (Paniermehl für die Form)
-
-
 
 ### Gerätschaften
 
