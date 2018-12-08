@@ -33,14 +33,24 @@ Maische 17.4.2017, Abgefüllt 24.4.2017
 ### Sud #7: [Stout](Stout.md)
 Das Stout ist mein erstes eigenes Rezept. Es ist ein wenig kräftig geworden, das heißt beim nächsten Mal werde ich sowohl die Menge der dunklen Malze als auch des Hopfens reduzieren.
 
-Maische 1. Oktober 2017, Abgefüllt 6.10.2017
+Maische 1.10.2017, Abgefüllt 6.10.2017
 
 ### Sud #8: [Simple IPA](SimpleIPA.md)
 Eigenes Rezept. Das IPA habe ich aus dem restlichen Perle und einer 100g Packung Cascade gebraut. Es enthält ausschließlich Pale Ale Malz, weil ich noch einen Sack davon rumstehen hatte.
 
-Maische 3. Oktober 2017, Abgefüllt 16.10.2017
+Maische 3.10. 2017, Abgefüllt 16.10.2017
 
 ### Sud #9: [Dunkles Hefeweizen](DunklesHefeweizen.md)
 Rezept abgewandelt vom Rezept des Sud No 3. Ich habe das Pilsener Malz durch Pale Ale Malz ersetzt und eine Flüssighefe benutzt. Definitiv eine Verbesserung!
 
-Maische 2. 4.2018, Abgefüllt 7.4.2018
+Maische 2.4.2018, Abgefüllt 7.4.2018
+
+### Sud #10: [Festbier](https://www.speidels-braumeister.de/de/braurezepte/festbier.html)
+Eine Malzmischung speziell für den [Braumeister](https://www.speidels-braumeister.de). Ich habe etwa 3 Liter Nachguss hinzugefügt.
+
+Maische 2.12.2018, Abgefüllt TODO
+
+### Sud #11: [Honig-Eichenbock](https://www.speidels-braumeister.de/de/braurezepte/eichenbock.html)
+Eine Malzmischung speziell für den [Braumeister](https://www.speidels-braumeister.de). Ohne Nachgüsse, dafür habe ich noch ein halbes Glas (ca. 250g) Honig hizugefügt.
+
+Maische 2.12.2018, Abgefüllt TODO

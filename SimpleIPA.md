@@ -18,7 +18,7 @@
 - 25g Perle 90 min v.E.
 - 40g Cascade 60 min v.E.
 - 40g Cascade 5 min v.E.
- -20g Cascade 0 min v.E.
+- 20g Cascade 0 min v.E.
 
 ### Gärung
 Wyeast 1084 Irish Hefe
