@@ -48,9 +48,9 @@ Maische 2.4.2018, Abgefüllt 7.4.2018
 ### Sud #10: [Festbier](https://www.speidels-braumeister.de/de/braurezepte/festbier.html)
 Eine Malzmischung speziell für den [Braumeister](https://www.speidels-braumeister.de). Ich habe etwa 3 Liter Nachguss hinzugefügt.
 
-Maische 2.12.2018, Abgefüllt TODO
+Maische 2.12.2018, Abgefüllt 14.12.2018
 
 ### Sud #11: [Honig-Eichenbock](https://www.speidels-braumeister.de/de/braurezepte/eichenbock.html)
 Eine Malzmischung speziell für den [Braumeister](https://www.speidels-braumeister.de). Ohne Nachgüsse, dafür habe ich noch ein halbes Glas (ca. 250g) Honig hizugefügt.
 
-Maische 2.12.2018, Abgefüllt TODO
+Maische 2.12.2018, Abgefüllt 10.12.2018
