@@ -2,7 +2,7 @@
 
 Das ist meine leichte Abwandelung des Rezepts, das die beiden knuffigen Bieber aus dem Buch [Kasimir backt](https://www.ellermann.de/buecher/illustratoren/d-g/details/titel/3-7891-6772-X//////Kasimir%20backt.html) zubereiten. Ich habe im wesentlichen Zucker durch Honig ersetzt und die Menge Vanillezucker erhöht. Außerdem habe ich die Gesamtmenge an Zucker reduziert. Der Kuchen ist auch so noch ungesund genug. 
 
- ### Zutaten
+### Zutaten
 
 - 80g geschmolzene Butter
 - 150g Honig
@@ -26,7 +26,7 @@ Das ist meine leichte Abwandelung des Rezepts, das die beiden knuffigen Bieber a
 - Backpinsel
 - Silikonschaber
 
-###… und so machen es Kasimir und Frippe
+### … und so machen es Kasimir und Frippe
 
 0. Backofen auf 180°C vorheizen.
 
