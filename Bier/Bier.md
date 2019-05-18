@@ -54,3 +54,12 @@ Maische 2.12.2018, Abgefüllt 14.12.2018
 Eine Malzmischung speziell für den [Braumeister](https://www.speidels-braumeister.de). Ohne Nachgüsse, dafür habe ich noch ein halbes Glas (ca. 250g) Honig hizugefügt.
 
 Maische 2.12.2018, Abgefüllt 10.12.2018
+
+### Sud #12:  [Maibock](Maibock.md)
+
+Maische 20.4.2019, Abgefüllt 26.4.2019
+
+### Sud #13: [Maspatecas IPA](MaspatecasIPA.md)
+
+Maische 21.4.2019, Abgefüllt 26.4.2019
+
