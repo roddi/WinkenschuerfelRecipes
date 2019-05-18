@@ -2,6 +2,8 @@
 
 Dieses Chili mache ich schon seit sehr langer Zeit. Damals war ich noch Vegetarier, insofern enthält es kein Fleisch. Allerdings ist es auch nicht vegan, es sei denn man lässt den Ziegenkäse weg, aber dann schmeckt es etwas langweilig.
 
+Ergibt ca. 4,5 Liter
+
 ### Zutaten
 
 * 2400g Kidneybohnen (also 3 große oder 6 kleine Dosen)
