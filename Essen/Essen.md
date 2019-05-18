@@ -6,6 +6,9 @@ klappt immer ™️
 ### [Bernd der Teig](BerndDerTeig.md)
 Hat auf dem Podstock 2018 für viel Aufsehen gesorgt.
 
+### [Chili](Chili.md)
+Mein Rezept, vegetarisch. Ich habe es nach Jahrzehnten mal aufgeschrieben.
+
 ### [Kasimir und Frippe Kuchen](KasimirFrippeKuchen.md)
 
 Einfacher Rührkuchen aus einem Kinderbuch.
