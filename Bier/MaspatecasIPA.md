@@ -1,6 +1,6 @@
 # Maspatecas IPA
 
-**Ma**gnum**Spa**lter**Te**ttnanger**Cas**cade
+Der Name leitet sich von den verwendeten Hopfensorten ab: **Ma**gnum **Spa**lter **Te**ttnanger **Cas**cade. Was halt so rumlag. 🤷‍♂️
 
 
 
