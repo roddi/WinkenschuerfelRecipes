@@ -37,19 +37,19 @@ Natürlich ist es jedem/r überlassen die Zutaten zu variieren. Das ist aber in 
 Eigentlich braucht man keine besonderen Gerätschaften, aber... 
 
 Eine **Pfanne** braucht man schon, wenn man Garnelen und/oder Omelett machen möchte.
-Ein sauberes **Backblech** eignet sich gut zum Einweichen der Reispapierblätter. Ein **Bambusbrett** macht sich erstaunlich gut, um die Rollen zu rollen.
+Ein sauberes **Backblech** eignet sich gut zum Einweichen der Reispapierblätter. Ein **Bambusbrett** macht sich erstaunlich gut, um die Rollen zu rollen. **Schälchen** machen sich gut um die Zutaten zum Rollen bereitzustellen. 
 
 ### …und so wird's gemacht
-Ich liste die einzelnen Komponenten gesondert auf. So ist es übersichtlicher und kann man Dinge parallel machen, wenn man Helfer hat.
+Ich liste die einzelnen Komponenten gesondert auf. So ist es übersichtlicher und kann man Dinge parallel machen, wenn man helfende Hände hat.
 
-#### Nudeln kochen
+#### Nudeln kochen bzw. einweichen
 Nach Anleitung auf der Packung. Der Hersteller sollte es am besten wissen. Nach dem Abseiern kurz mit klarem Wasser nachspülen und in einem Schälchen bereitstellen.
 
 #### Omelett machen
 **Eier** mit **Sojasoße** und **Chiliflocken** verquirlen. Pfanne mit (**Sesam)-Öl** auf mittlere Hitze erhitzen. (Die Eier sollen nur stocken, wir braten kein Steak!). Ei-Soja-Chilimischung hineingeben. Bei geschlossenem Deckel das Ei stocken lassen. Wenn das Ei fest ist, aus der Pfanne auf einen Teller verfrachten und kalt werden lassen. Danach in etwa fingerdicke Streifen schneiden. 
 
 #### Garnelen anbraten
-Die **Garnelen** in lauwarmen Wasser auftauen lassen. Wenn sie noch nicht gepult sind pulen. Mit kaltem Wasser noch einmal gut nachspülen. Die **Butter** (ein ordentliches Stück) bei angemessener Hitze in der Pfanne zerlassen. Auch hier gilt: wir braten kein Steak! Wir wollen die Garnelen nur sanft durcherhitzen und ihnen ein bisschen zusätzlichen Geschmack zuteil werden lassen. Die Garnelen dazugeben und von jeder Seite Farbe nehmen lassen. Nicht zu lange in der Pfanne lassen, sonst werden sie zu Gummi.
+Die **Garnelen** in lauwarmen Wasser auftauen lassen. Wenn sie noch nicht gepult sind, pulen. Mit kaltem Wasser noch einmal gut nachspülen. Die **Butter** (ein ordentliches Stück) bei angemessener Hitze in der Pfanne zerlassen. Auch hier gilt: wir braten kein Steak! Wir wollen die Garnelen nur sanft durcherhitzen und ihnen ein bisschen zusätzlichen Geschmack zuteil werden lassen. Die Garnelen dazugeben und von jeder Seite Farbe nehmen lassen. Nicht zu lange in der Pfanne lassen, sonst werden sie zu Gummi.
  
 #### Dip Sauce zubereiten
 Die **Hoisinsauce** und den **Limettensaft** verquirlen.

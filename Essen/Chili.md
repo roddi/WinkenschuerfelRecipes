@@ -29,8 +29,8 @@ Ergibt ca. 4,5 Liter
 2. Öl im Topf heiß machen und Paprika scharf anbraten. Die Paprika verliert meist auf Anhieb viel Wasser und köchelt dann eher. 
 3. Wenn das Wasser weitestgehend weg ist oder die Paprika anfängt sehr dunkel zu werden, Zwiebeln dazu. 
 4. Wenn die Zwiebeln gut sind, die Tomaten dazutun. Nach Gusto Suppenpulver, Salz und Pfeffer hinzufügen.
-5. Die Bohnendosen aufmachen und einen Großteil des Suppengunks abgießen und die Bohnen dazutun.
-6. Die Chilis schneiden und nach Gusto dazutun. Durch das Köcheln verliert das Chili an Schärfe, _allerdings_ verteilt sich die Schärfe auch besser. Es kann also so wirken, als würde es schärfer. **Achtung: Die geschnittenen Chilis nicht mit der Hand anfassen!** Die Schärfe lässte sich nicht so schnell abwaschen und wenn man sich dann ins Auge fasst (oder andere empfindliche Stellen des Körpers) hat man "viel Spaß". Ich empfehle den Einsatz einer Gabel.
-7. Jetzt erstmal eine Runde köcheln lassen. Währenddessen die Champignons putzen und schneiden. Ich viertele die kleinen und sechstel die großen. Die Pilze recht spät dazutun, weil sie recht schnell "lätschert" werden.
+5. Die Bohnendosen aufmachen und einen Großteil des Suppengunks abgießen und wegschütten. Dann die Bohnendosen in den Topf entleeren.
+6. Die Chilis schneiden und nach Gusto dazutun. Durch das Köcheln verliert das Chili an Schärfe, _allerdings_ verteilt sich die Schärfe auch besser. Es kann also so wirken, als würde es schärfer. **Achtung: Die geschnittenen Chilis nicht mit der Hand anfassen!** Die Schärfe lässt sich nicht so schnell abwaschen und wenn man sich dann ins Auge fasst (oder andere empfindliche Stellen des Körpers) hat man "viel Spaß". Ich empfehle den Einsatz einer Gabel.
+7. Jetzt erstmal eine Runde köcheln lassen. Währenddessen die Champignons putzen und schneiden. Ich viertele die kleinen und sechstel die großen. Die Pilze recht spät dazutun, weil sie schnell "lätschert" werden.
 8. Wenn die Bohnen durchgekocht sind (das dauert meist mindestens 45 Minuten) kann man die Pilze und den Ziegenkäse dazutun. Wenn sich der Käse aufgelöst hat, die Rinde entfernen. Die hat wahrscheinlich niemand gerne auf dem Teller.
 9. Dann weiterkochen lassen bis die Pilze gut sind.
