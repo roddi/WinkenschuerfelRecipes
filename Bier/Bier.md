@@ -63,3 +63,10 @@ Maische 20.4.2019, Abgefüllt 26.4.2019
 
 Maische 21.4.2019, Abgefüllt 26.4.2019
 
+### Sud #14: [Dunkles Hefeweizen](DunklesHefeweizen.md)
+
+Maische 4.10.2020, Abgefüllt 10.10.2020
+
+### Sud #15: [Stout Revision 2](StoutRev2.md)
+
+Maische 4.10.2021, Abgefüllt 10.10.2021
