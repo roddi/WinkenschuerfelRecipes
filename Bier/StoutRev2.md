@@ -1,4 +1,6 @@
-# Stout
+# Stout 
+##### _Revision 2_
+Weniger Chocolate Malz, weniger Farbmalz, Mehr Pale Ale Malz
 
 ### Guss
 - 20 l Hauptguss
@@ -13,7 +15,7 @@
 * 500g Haferflocken
 
 ### Maischeschema
-Haferflocken als Rohfruchtmaische kalt ansetzen und ca. 40 Minuten kochen
+Haferflocken als Rohfruchtmaische kalt ansetzen und ca. 40 Minuten kochen. (Vorsicht, brennt schnell an)
 
 - Einmaischen 42° 
 - Eiweißrast 50° 20min
@@ -22,7 +24,7 @@ Haferflocken als Rohfruchtmaische kalt ansetzen und ca. 40 Minuten kochen
 - 2\. Verzuckerungsrast 73° 30min
 - Abmaischen 78° 
 
-Das Abmaischen ist leider ein bisschen fummelig. Ich glaube die Haferrohfruchtmaische verklebt alles ein wenig.
+Das Abmaischen ist leider ein bisschen fummelig. Ich glaube es liegt an der Haferrohfruchtmaische. Die verklebt alles ein wenig.
 
 ### Hopfenkochen
 - 50g Perle 90 min v.E.
