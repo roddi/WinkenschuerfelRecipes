@@ -6,7 +6,7 @@ klappt immer ™️
 ### [Bernd der Teig](BerndDerTeig.md)
 Hat auf dem Podstock 2018 für viel Aufsehen gesorgt.
 
-### [Bernd der Teig 2022](BerndDerTeig.md)
+### [Bernd der Teig 2022](BerndDerTeig2022.md)
 Wiedergänger auf dem Podstock 2022.
 
 ### [Chili](Chili.md)
