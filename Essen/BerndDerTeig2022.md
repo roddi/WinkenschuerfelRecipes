@@ -1,5 +1,5 @@
 # Bernd der Teig 2022
-vom Podstock 2022. Das Rezept hat eher biografischen Charakter, als dass ich empfehlen würde das genau so nochmal zu machen. 
+vom Podstock 2022. Das Rezept hat eher biografischen Charakter, als dass ich empfehlen würde das genau so nochmal zu machen. Diesmal war es ein wenig viel Salz, kein Problem, aber ein Ticken weniger wäre nicht verkehrt (140g-150g?).
 
 ### Zutaten
 10kg Mehl (Tipo 00)
