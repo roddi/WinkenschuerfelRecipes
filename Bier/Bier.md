@@ -31,7 +31,7 @@ Eine Malzmischung speziell für den [Braumeister](https://www.speidels-braumeist
 Maische 17.4.2017, Abgefüllt 24.4.2017
 
 ### Sud #7: [Stout](Stout.md)
-Das Stout ist mein erstes eigenes Rezept. Es ist ein wenig kräftig geworden, das heißt beim nächsten Mal werde ich sowohl die Menge der dunklen Malze als auch des Hopfens reduzieren.
+Das Stout ist mein erstes eigenes Rezept. Es ist ein wenig kräftig geworden, das heißt beim nächsten Mal werde ich sowohl die Menge der dunklen Malze als auch des Hopfens reduzieren. Ich empfehle dieses Rezept _nicht_ nach zu brauen sondern lieber Revision 2 (Sud #15).
 
 Maische 1.10.2017, Abgefüllt 6.10.2017
 
