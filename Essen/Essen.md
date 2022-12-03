@@ -12,6 +12,9 @@ Wiedergänger auf dem Podstock 2022.
 ### [Chili](Chili.md)
 Mein Rezept, vegetarisch. Ich habe es nach Jahrzehnten mal aufgeschrieben.
 
+### [Kirsch-Streusel-Kuchen](Kirsch-Streusel-Kuchen.md)
+Simpel, schnell, kann man essen.
+
 ### [Sommerrollen](Sommerrollen.md)
 Auch vegetarisch möglich.
 
