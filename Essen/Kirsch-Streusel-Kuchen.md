@@ -2,13 +2,13 @@
 
 ### Zutaten
 
-600g Kirschen (Süß-, Sauer- oder auch Schattenmorellen aus dem Glas)
-400g Mehl Typ 550
-240g Zucker
-1Pck Vanillezucker
-300g Butter (+ zus. Butter für die Form)
-2 Eigelb (Größe M)
-3 EL Kakaopulver
+* 600g Kirschen (Süß-, Sauer- oder auch Schattenmorellen aus dem Glas)
+* 400g Mehl Typ 550
+* 240g Zucker
+* 1 Packung Vanillezucker
+* 300g Butter (+ zus. Butter für die Form)
+* 2 Eigelb (Größe M)
+* 3 EL Kakaopulver
 
 ### Gerätschaften
 
