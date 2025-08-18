@@ -36,8 +36,6 @@ ich habe diese Quiche Lorraine irgendwann einmal ergooglet und dann noch ein bis
 8. Füllung einfüllen. In die Form mit dem Teig. Sollte klar sein. 
 
 ### Backen
-
 ca. 35 Minuten
-
 
 [^temperatur]: Na gut, ich will nicht so sein: 356°F, 144°R, 453,15K
